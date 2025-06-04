@@ -14,5 +14,5 @@
 - 📫 How to reach me: [discord server](https://discord.gg/hCyf6JDVXy)
 - 😄 Pronouns: `He/Him`
 
-<iframe class="bmc" src="https://buymeacoffee.com/ozz1337" width="200" height="40"></iframe>
 
+<a href="https://buymeacoffee.com/ozz1337" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/
