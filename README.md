@@ -13,3 +13,5 @@
 - 💬 Ask me about Python Coding
 - 📫 How to reach me: [discord server](https://discord.gg/hCyf6JDVXy)
 - 😄 Pronouns: `He/Him`
+
+https://buymeacoffee.com/ozz1337
