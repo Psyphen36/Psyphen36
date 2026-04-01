@@ -1,18 +1,17 @@
-## Hi there 👋
-🔐 Anupam Mishra — Security Research Portfolio
+## 🔐 Anupam Mishra — Security Research Portfolio
 
-Security Researcher | Bug Bounty Hunter | Pentester
+**Security Researcher | Bug Bounty Hunter | Pentester**
 
 I specialize in identifying real-world vulnerabilities in web applications and APIs, with a focus on broken access control, authentication flaws, and business logic issues.
 
-🧠 Skills Demonstrated
-API Security Testing
-IDOR & Broken Access Control
-Privilege Escalation
-Recon & Attack Surface Mapping
-Manual Testing & Exploitation
-Automation & Scripting
-- 📫 How to reach me: [discord server](https://discord.gg/hCyf6JDVXy)
+## 🧠 Skills Demonstrated
+- API Security Testing
+- IDOR & Broken Access Control
+- Privilege Escalation
+- Recon & Attack Surface Mapping
+- Manual Testing & Exploitation
+- Automation & Scripting
+- How to reach me/join the community: [discord server](https://discord.gg/hCyf6JDVXy)
 
 🧪 Featured Writeups
 comming soon...
