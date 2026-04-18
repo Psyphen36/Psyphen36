@@ -4,9 +4,7 @@ Security Researcher | Bug Bounty Hunter | Pentester
 
 I specialize in identifying real-world vulnerabilities in web applications and APIs, with a focus on broken access control, authentication flaws, and business logic issues.
 
-## Portfolio
-
-- [Portfolio](https://psyphen36.github.io/portfolio/)
+## - [Portfolio](https://psyphen36.github.io/portfolio/)
 
 ## Skills Demonstrated
 
